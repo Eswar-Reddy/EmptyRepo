@@ -63,6 +63,22 @@
         <trackTrending>false</trackTrending>
         <type>TextArea</type>
     </fields>
+	<fields>
+        <fullName>BookDesc2__c</fullName>
+        <externalId>false</externalId>
+        <label>BookDesc</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+	<fields>
+        <fullName>BookDesc3__c</fullName>
+        <externalId>false</externalId>
+        <label>BookDesc</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
     <label>Book</label>
     <nameField>
         <label>Book Name</label>
