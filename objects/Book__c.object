@@ -81,7 +81,16 @@
     </fields>
 	<fields>
         <fullName>CompletedDate__c</fullName>
-        <description> Save the date&#55357; when milestone  </description>
+        <description> Save the date when milestone  </description>
+        <externalId>false</externalId>
+        <label>Completed Date</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
+	<fields>
+        <fullName>CompletedDate6__c</fullName>
+        <description> Save the date when milestone  </description>
         <externalId>false</externalId>
         <label>Completed Date</label>
         <required>false</required>

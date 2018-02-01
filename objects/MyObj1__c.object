@@ -71,6 +71,15 @@
         <trackTrending>false</trackTrending>
         <type>Date</type>
     </fields>
+	<fields>
+        <fullName>CompletedDate9__c</fullName>
+        <description>Save the  when milestone  is completed for reporting</description>
+        <externalId>false</externalId>
+        <label>Completed Date</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Date</type>
+    </fields>
     <label>MyObj1</label>
     <nameField>
         <label>MyObj1 Name</label>
