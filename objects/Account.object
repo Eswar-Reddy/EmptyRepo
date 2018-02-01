@@ -233,7 +233,7 @@
         <description>Book Owner Team Member with Phone &amp; Email Information</description>
         <externalId>false</externalId>
         <formula>Primary_Book__r.Book_Owner_Team_Member__r.Employee_First_Name__c &amp;&quot; &quot;&amp; Primary_Book__r.Book_Owner_Team_Member__r.Team_Member_Last_Name__c 
- &amp;&quot; | 📞 &quot;&amp;
+ &amp;&quot; | 
 Primary_Book__r.Book_Owner_Team_Member__r.Phone__c 
 &amp;
 IF(ISBLANK(Primary_Book__r.Book_Owner_Team_Member__r.Email_Address__c),
