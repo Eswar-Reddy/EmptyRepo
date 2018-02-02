@@ -3,6 +3,8 @@ public Class A101
 public Account createAccount(String name)  //method to create account
 {
 //deleted all comments
+//deleted all comments//deleted all comments
+//deleted all comments
 //deleted all comments
 //deleted all comments
 //deleted all comments
